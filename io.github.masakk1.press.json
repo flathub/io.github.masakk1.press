@@ -19,8 +19,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/masakk1/press",
-                    "tag": "v0.3.0",
-                    "commit": "80ab8b1cc86767313ea9e8525be70ddf3ebf9bb1"
+                    "tag": "v0.4.0",
+                    "commit": "b6626c338ba32475a87d321d51cfdc695464643b"
                 }
             ]
         }
